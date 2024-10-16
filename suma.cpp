@@ -8,5 +8,6 @@ int main() {
     cout<<"Introduce el segundo valor"
     cin>>b;
     c=a+b;
+    cout<<c;
 
 }
