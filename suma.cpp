@@ -8,5 +8,4 @@ int main() {
     cout<<"Introduce el segundo valor"
     cin>>b;
 
-return 0;
 }
